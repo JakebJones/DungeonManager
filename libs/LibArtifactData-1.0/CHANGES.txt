@@ -1,0 +1,16 @@
+tag fccad97199e78945355498cd3dad1c1caf4baeaf 1.5
+Author:	Rainrider <Rainrider@users.noreply.github.com>
+Date:	Tue Feb 27 21:41:20 2018 +0100
+
+Version 1.5
+
+Fix loading order when embedded
+
+commit 3ae22a23b5bafe24bfbeb75c5a42e27b8d3066b5
+Author: Rainrider <Rainrider@users.noreply.github.com>
+Date:   Tue Feb 27 21:20:47 2018 +0100
+
+    Merge data.lua into the main file
+    
+    Fixes https://github.com/Rainrider/LibArtifactData-1.0/issues/19
+
